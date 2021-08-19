@@ -68,6 +68,7 @@ header {
     flex-direction: row;
     justify-items: flex-start;
     align-items: flex-start;
+    margin-bottom: 8px;
 }
 
 header > .avatar {
@@ -79,7 +80,7 @@ header > .avatar {
 
 header > .info {
     flex: 1;
-    margin-left: 20px;
+    /* margin-left: 20px; */
 }
 
 .info > .name {
@@ -148,6 +149,6 @@ header > .info {
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
-    margin: 7px 0;
+    margin: 10px 0;
     font-size: small;
 }
