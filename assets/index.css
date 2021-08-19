@@ -46,6 +46,10 @@ body {
     font-family: "siyuan", Helvetica, sans-serif;
 }
 
+a {
+    color: #10aec2;
+}
+
 .layout-a4 {
     background-color: #fff;
     width: calc(var(--multiple) * var(--base-width));
@@ -81,6 +85,7 @@ header > .info {
 .info > .name {
     font-weight: 700;
     font-size: x-large;
+    color: #10aec2;
 }
 
 .info > .info-base {
@@ -96,6 +101,7 @@ header > .info {
     margin: 5px 0;
     font-weight: 600;
     font-size: small;
+    color: #10aec2;
 }
 
 .info > .info-work > .work-loc {
@@ -114,18 +120,27 @@ header > .info {
 .section {
     margin: 10px 0 2px;
     font-size: larger;
-    font-weight: 900;
+    font-weight: 600;
     position: relative;
+}
+
+.section > span {
+    color: white;
+    background-color: #10aec2;
+    padding: 5px 5px;
+    border-radius: 3px 3px 0 0;
 }
 
 .section::after {
     content: "";
     position: absolute;
-    bottom: -2px;
+    bottom: -4px;
     display: block;
     width: 100%;
-    height: 1px;
-    background-color: #131e1e;
+    height: 2px;
+    transform: scale(1, 0.5);
+    background-color: #10aec2;
+    border-radius: 2px;
 }
 
 .content > .tabel {
@@ -133,6 +148,6 @@ header > .info {
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
-    margin: 5px 0;
+    margin: 7px 0;
     font-size: small;
 }
