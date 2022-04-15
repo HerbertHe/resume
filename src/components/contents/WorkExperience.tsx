@@ -1,5 +1,5 @@
-import ContentBox from "../ContentBox"
-import ExperienceBox from "../ExperienceBox"
+import ContentBox from "../boxs/ContentBox"
+import ExperienceBox from "../boxs/ExperienceBox"
 
 const WorkExperience = () => {
     return <ContentBox title="WorkExperience">

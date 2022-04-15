@@ -4,6 +4,8 @@ import App from './App'
 import 'virtual:windi.css'
 import './index.less'
 
+import "@purge-icons/generated"
+
 import i18n from "i18next"
 import { initReactI18next } from "react-i18next"
 
