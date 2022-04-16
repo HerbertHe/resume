@@ -8,7 +8,7 @@ Technical Director of the Big Data Association of NUC, and the leader of the Web
 and the Co-Founder of the Nuco.Tech Technology.`
 
 const p4 = `In the period of volunteer service in Xinjiang, I create a series of open source projects represented by "Hapin" for Kazakh language.
-Thinking as a Product Manager, and developeing as a Developer, I'm creating more value for society via open source.
+Thinking as a Product Manager, and developing as a Developer, I'm creating more value for society via open source.
 `
 
 const p5 = `I have a wide range of interests, like music, and I am also a lover of landscape photography (Nikon brothers)!`
