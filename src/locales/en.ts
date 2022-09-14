@@ -1,7 +1,7 @@
 const p1 = `Hello, I'm Herbert He, a frond-end developer, open source developer, and gopher.`
 
 const p2 = `I have graduated from the University of China with a Bachelor of Science in Applied Physics.
-Now I am a Collegiate Volunteer to China's Far West Program, and serve for Queren Township People's Government, Mori, Changji, Xinjiang.`
+Now I am a Collegiate Volunteer to China's Far West Program, and serve for Bureau of Statistics of Mori Kazakh Autonomous County, Mori, Changji, Xinjiang.`
 
 const p3 = `During the university, I successively hold the posts of the Information Management Department Assistant of the Student Innovation Practice Center (SIPC) of the School of Science of NUC,
 Technical Director of the Big Data Association of NUC, and the leader of the Web Development Group of "The Creator Union" of the Engineering Training Center of NUC,
