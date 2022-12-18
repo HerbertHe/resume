@@ -1,7 +1,9 @@
 import { useTranslation } from "react-i18next"
 
+import avatar from "../../assets/avatar.jpeg"
+
 const emails = [
-    "admin@jieec.cn",
+    "i@jieec.cn",
     "Herbert.He0229@gmail.com"
 ]
 
@@ -9,6 +11,7 @@ const Me = () => {
     const { t } = useTranslation("", { keyPrefix: "me" })
 
     return <div className="w-full flex flex-col">
+        <img src={avatar} alt="avatar" className="w-30 h-30 rounded-full mb-5 shadow shadow-gray-400" />
         <h1 className="text-xl font-semibold">{t("name")}</h1>
         <p className="my-2 text-sm text-gray-500">{t("description")}</p>
         <ul className="my-1 text-sm">

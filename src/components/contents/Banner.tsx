@@ -5,8 +5,8 @@ interface IBanner {
 
 const banners: IBanner[] = [
     { title: "Blog", url: "https://goer.icu" },
+    { title: "Idea", url: "https://idea.goer.icu" },
     { title: "Liandi", url: "https://ld246.com/member/HerbertHe" },
-    { title: "VR", url: "https://vr.goer.icu" }
 ]
 
 const Banner = () => <ul className="w-full flex flex-row justify-start items-center">
