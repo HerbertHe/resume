@@ -4,6 +4,7 @@ import avatar from "../../assets/avatar.jpeg"
 
 const emails = [
     "i@jieec.cn",
+    "Herbert.He0229@outlook.com",
     "Herbert.He0229@gmail.com"
 ]
 
