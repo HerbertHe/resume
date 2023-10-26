@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next"
 import avatar from "../../assets/avatar.jpeg"
 
 const emails = [
-    "i@jieec.cn",
+    "hi@ibert.me",
     "Herbert.He0229@outlook.com",
     "Herbert.He0229@gmail.com"
 ]

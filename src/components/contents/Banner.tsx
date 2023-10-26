@@ -4,8 +4,8 @@ interface IBanner {
 }
 
 const banners: IBanner[] = [
-    { title: "Blog", url: "https://goer.icu" },
-    { title: "Idea", url: "https://idea.goer.icu" },
+    { title: "Blog", url: "https://ibert.me" },
+    { title: "Idea", url: "https://idea.ibert.me" },
     { title: "Liandi", url: "https://ld246.com/member/HerbertHe" },
 ]
 
